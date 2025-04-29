@@ -3430,7 +3430,7 @@
       "version": 950,
       "versionNonce": 28402768,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1745842797358,
       "link": null,
       "locked": false,
@@ -6174,7 +6174,7 @@
       "initialHeight": 0.25507341012746565
     },
     {
-      "id": "TwNyf3vVxafhZED8hvqLm",
+      "id": "b9ZHAIzi0RTE4O-GkfsiC",
       "type": "text",
       "x": 550.2913641752691,
       "y": 965.954651132893,
@@ -6192,9 +6192,9 @@
       "frameId": null,
       "index": "b39",
       "roundness": null,
-      "seed": 1780992317,
-      "version": 649,
-      "versionNonce": 1533626867,
+      "seed": 2030626857,
+      "version": 652,
+      "versionNonce": 259095847,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6202,7 +6202,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745833018010,
+      "updated": 1745855473074,
       "link": null,
       "locked": false,
       "text": "If intelligence arises from\nunderstanding, and understanding\nfrom experience, can a thing built by\nman and following commands truly be\ncalled intelligent? Or is it but a\nreflection of our own minds?",
@@ -6220,8 +6220,8 @@
       "type": "arrow",
       "x": 459.5115028798336,
       "y": 1054.6151618954966,
-      "width": 66.56892495220933,
-      "height": 9.48420999696441,
+      "width": 66.57475419294934,
+      "height": 9.629339041211551,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -6235,11 +6235,11 @@
       "index": "b3A",
       "roundness": null,
       "seed": 1547016605,
-      "version": 824,
-      "versionNonce": 1330091613,
+      "version": 827,
+      "versionNonce": 773223017,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745833018010,
+      "updated": 1745855498401,
       "link": null,
       "locked": false,
       "points": [
@@ -6248,14 +6248,14 @@
           0
         ],
         [
-          66.56892495220933,
-          -9.48420999696441
+          66.57475419294934,
+          -9.629339041211551
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": null,
       "endBinding": {
-        "elementId": "TwNyf3vVxafhZED8hvqLm",
+        "elementId": "b9ZHAIzi0RTE4O-GkfsiC",
         "focus": 0.25137798405911566,
         "gap": 24.210936343226194
       },
@@ -6789,7 +6789,7 @@
       "version": 11,
       "versionNonce": 1726869584,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1745842804239,
       "link": null,
       "locked": false,
@@ -6802,6 +6802,90 @@
       "originalText": "provides",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "clpEKH-pZnZe5RragNZbc",
+      "type": "text",
+      "x": 550.6119724159688,
+      "y": 898.6502375489155,
+      "width": 163.05003112538577,
+      "height": 37.800000000000004,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3Q",
+      "roundness": null,
+      "seed": 136917607,
+      "version": 863,
+      "versionNonce": 1188864809,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ZvHqUbx90o0dyDilYCN5P",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745855526867,
+      "link": null,
+      "locked": false,
+      "text": "What is AI?",
+      "fontSize": 28,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "What is AI?",
+      "autoResize": false,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "TwNyf3vVxafhZED8hvqLm",
+      "type": "text",
+      "x": 1820.567645461023,
+      "y": 919.4526354831643,
+      "width": 238.34534910539867,
+      "height": 37.800000000000004,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b3R",
+      "roundness": null,
+      "seed": 1780992317,
+      "version": 985,
+      "versionNonce": 200389159,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "ZvHqUbx90o0dyDilYCN5P",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745855533407,
+      "link": null,
+      "locked": false,
+      "text": "What is Web 3.0?",
+      "fontSize": 28,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "What is Web 3.0?",
+      "autoResize": false,
+      "lineHeight": 1.35
     }
   ],
   "appState": {

@@ -1,14 +1,13 @@
 ---
-# You can also start simply with 'default'
 theme: default
 colorSchema: light
 transition: none
-title: Catching up AI
+title: Catching up with AI
 ---
 
 # Defining AI
 
-## Catching up AI
+## Catching up with AI
 
 ---
 layout: image
@@ -40,7 +39,7 @@ backgroundSize: contain
 
 ---
 layout: image
-image: ./assets/devs-vs-ai-distance.png
+image: ./assets/dev-vs-ai-distance.png
 backgroundSize: contain
 
 ---
@@ -53,22 +52,29 @@ backgroundSize: contain
 ---
 
 ---
+layout: section
+---
 
 # What is AI?
 
----
-
-1. **AI is a powerful universal concept**
 
 ---
 layout: image
-image: ./assets/antiquity.png
+image: ./assets/antiquity.svg
 backgroundSize: contain
+---
 
 ---
+layout: center
+---
+
+AI is:
+
+1. **A powerful universal concept**
+
 ---
 layout: image
-image: ./assets/antiquity+web3.png
+image: ./assets/antiquity+web3.svg
 backgroundSize: contain
 
 ---
@@ -79,9 +85,22 @@ backgroundSize: contain
 
 ---
 ---
+layout: center
+---
 
-1. AI is a powerful universal concept
-2. **AI purpose is to reproduce human behaviors**
+AI is:
+
+1. A powerful universal concept
+2. **A science which aims to reproduce human behaviors**
+
+---
+layout: image
+image: https://www.quantamagazine.org/wp-content/uploads/2020/12/MIT-Shannon-CES_v0.jpg
+backgroundSize: contain
+
+---
+
+<!-- Claude Shannon, 1950, https://www.youtube.com/watch?v=_9_AEVQ_p74 -->
 
 ---
 layout: image
@@ -101,13 +120,20 @@ backgroundSize: contain
 
 ---
 
-1. AI is a universal concept
-2. AI purpose is to reproduce human behavior
+AI is:
 
+1. A powerful universal concept
+2. A science which aims to reproduce human behaviors
+3. **The origin of computer science**
+
+---
+layout: section
 ---
 
 # Defining AI for developers
 
+---
+layout: center
 ---
 
 ```ts
@@ -117,13 +143,17 @@ function aFunction() {
 ```
 
 ---
+layout: center
+---
 
 ```ts
-function aFunctionDoingHumanLikeBehavior() {
+function aFunctionExhibitingHumanLikeBehavior() {
   // play chess
 }
 ```
 
+---
+layout: center
 ---
 
 ```ts
@@ -133,13 +163,17 @@ function sum(a: number, b: number): number {
 ```
 
 ---
+layout: center
+---
 
 ```ts
 function computeNextChessMove(board: number[][]): number[][] {
-  // deep blue logic
+  // Deep blue logic, 1996
 }
 ```
 
+---
+layout: center
 ---
 
 ```ts
@@ -159,19 +193,21 @@ Gaétan Zanella
 
 ---
 
-- Performing complex logics
-- Statistics / Mathematics
-- Advanced full text searches
-- Memorizing
-- Communicating in well defined protocols
+- Performing complex logic
+- Applying statistics and mathematics
+- Conducting advanced full-text searches
+- Memorizing information
+- Communicating via well-defined protocols
 
 ---
 layout: quote
 ---
 
-**"AI is a blurred, shifting zone, 'brilliant,' of what almost works, bluff."**
+**"AI is a blurred, shifting zone, 'brilliant', of what almost works, bluff."**
 
 Cédric Villani
+
+[France Culture](https://www.radiofrance.fr/franceculture/podcasts/serie-l-intelligence-artificielle-utopie-dystopique)
 
 ---
 layout: section
@@ -193,8 +229,8 @@ layout: two-cols
 Alex won the ImageNet contest by combining:
 
 1. Machine learning
-2. Deep learning network
-3. GPU
+2. Neural networks
+3. GPUs
 
 ::right::
 
@@ -202,13 +238,15 @@ Alex won the ImageNet contest by combining:
 
 ---
 
-Since 2012, thanks to ML technics, more interactive human tasks are available:
+Since 2012, thanks to machine learning techniques, more interactive human-like tasks have become possible:
 
-- Recognizing human pictures
+- Recognizing images
 - Creating visual images
-- Speaking a human languages
+- Speaking human languages
 - Classifying messages
-- ...
+- Writing in natural languages — and even code
+
+...
 
 ---
 layout: section
@@ -218,13 +256,13 @@ layout: section
 
 ---
 layout: image
-image: ./assets/ml-regular.png
+image: ./assets/ml-regular.svg
 backgroundSize: contain
 
 ---
 ---
 layout: image
-image: ./assets/ml-data.png
+image: ./assets/ml-data.svg
 backgroundSize: contain
 
 ---
@@ -242,6 +280,11 @@ image: ./assets/ml-linear.svg
 backgroundSize: contain
 
 ---
+---
+layout: section
+---
+
+# What is a neural network??
 
 ---
 layout: image
@@ -258,7 +301,7 @@ backgroundSize: contain
 
 - Universal, powerful, historical concept
 - Reproducing human like behavior
-- Since 2012, ML explodes to create more human like programs
+- Since 2012, ML explodes to create more and more human like programs
 
 ## ✅ ML
 
