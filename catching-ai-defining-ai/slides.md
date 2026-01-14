@@ -78,6 +78,9 @@ image: ./assets/antiquity+web3.svg
 backgroundSize: contain
 
 ---
+
+<!-- = Apple -->
+
 ---
 layout: image
 image: ./assets/pygmalion.jpg
